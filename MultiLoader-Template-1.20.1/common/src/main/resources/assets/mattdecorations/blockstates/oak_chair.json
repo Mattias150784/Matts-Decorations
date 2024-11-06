@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mattdecorations:block/oak_chair",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mattdecorations:block/oak_chair"
+    },
+    "facing=south": {
+      "model": "mattdecorations:block/oak_chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mattdecorations:block/oak_chair",
+      "y": 270
+    }
+  }
+}
